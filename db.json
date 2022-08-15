@@ -1,0 +1,79 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Cockadoodle Brew 1kg",
+      "description": "Our delicious signature blend, uses a combination of rich, full bodied South American and African beans to create a strong flavour. Perfect for those who like a morning coffee with kick.",
+      "is_ready": true,
+      "gambar": "Cockadoodle-Brew.png"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Single Origin 500gm",
+      "description": "Seasonal Single Origin changing every fortnight. For more information on the current bean available, please get in touch.",
+      "is_ready": true,
+      "gambar": "Little-Cove-Blank-Coffee-Bag.png"
+    },
+    
+	{
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Koko Deluxe 1kg",
+      "description": "Sourced from West Africa, the deep red colour of Koko Deluxe is indicative of top grade bean varieties in this world renowned cocoa growing region. The quality is confirmed with complexity and body, leaving a superfine, true chocolate finish. This African Red cocoa is processed in France, then blended with pure Australian cane sugar in Melbourne.",
+      "is_ready": true,
+      "gambar": "Little-Cove-Coffee-Koko-Deluxe-1kg.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Cockadoodle Brew 1kg",
+      "description": "Our delicious signature blend, uses a combination of rich, full bodied South American and African beans to create a strong flavour. Perfect for those who like a morning coffee with kick.",
+      "is_ready": true,
+      "gambar": "Cockadoodle-Brew.png"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Single Origin 500gm",
+      "description": "Seasonal Single Origin changing every fortnight. For more information on the current bean available, please get in touch.",
+      "is_ready": true,
+      "gambar": "Little-Cove-Blank-Coffee-Bag.png"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Grounded Pleasures Seven Spice Chai 200g",
+      "description": "Seven Spice Chai is a unique product of seven freshly ground spices, sourced directly from some of the world’s finest spice farms. The spices are blended with an organic, unrefined jaggery sugar (evaporated sugar cane juice) and a natural Sri Lankan tea extract. Our balance of spices ensures that the flavours are not too overpowering. This chai has been created to have a flavour as close as possible to a chai from a street wallah served in India or Sri Lanka.",
+      "is_ready": true,
+      "gambar": "Little-Cove-Coffee-Grounded-Pleasures-Seven-Spice-Chai-200g.png"
+    },
+	{
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Koko Deluxe 1kg",
+      "description": "Sourced from West Africa, the deep red colour of Koko Deluxe is indicative of top grade bean varieties in this world renowned cocoa growing region. The quality is confirmed with complexity and body, leaving a superfine, true chocolate finish. This African Red cocoa is processed in France, then blended with pure Australian cane sugar in Melbourne.",
+      "is_ready": true,
+      "gambar": "Little-Cove-Coffee-Koko-Deluxe-1kg.png"
+    },
+	{
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Aerobie AeroPress",
+      "description": "1 – 4 cup coffee and espresso maker. Makes a quick and easy great tasting coffee. Fantastic for travelling/ on holiday/ camping or at home.",
+      "is_ready": true,
+      "gambar": "Aerobie-AeroPress.png"
+    },
+	{
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bondi Chai Latte Mug",
+      "description": "Bondi Chai Latte is a premium quality chai latte pre-mix combining black tea extract and a complex blend of ‘comfort spices’, milk, honey and sugar that have made it one of Australia’s favourite café beverages. The Bondi Chai Latte mug is the perfect gift or will very quickly become your favourite at home mug.",
+      "is_ready": true,
+      "gambar": "Bondi-Chai-Mugs.jpg"
+    }
+  ]
+}
